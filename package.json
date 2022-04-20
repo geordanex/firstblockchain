@@ -1,0 +1,10 @@
+{
+  "name": "firtblockchain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Geordan Sanchez <geordan.sanchez.contractor@bbva.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.9.3"
+  }
+}
