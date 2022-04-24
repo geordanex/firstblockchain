@@ -37,8 +37,8 @@
       ]
     },
     "D:\\Blockchain\\firtblockchain\\contracts\\Counter.sol": {
-      "lastModificationDate": 1650748729999,
-      "contentHash": "b156b7e9bbab19c4405fcfbce4b00528",
+      "lastModificationDate": 1650826547719,
+      "contentHash": "aaa7fa21521fc52c0da4bee4cdff24ac",
       "sourceName": "contracts/Counter.sol",
       "solcConfig": {
         "version": "0.8.10",
