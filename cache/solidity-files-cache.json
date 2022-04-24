@@ -37,8 +37,8 @@
       ]
     },
     "D:\\Blockchain\\firtblockchain\\contracts\\Counter.sol": {
-      "lastModificationDate": 1650826547719,
-      "contentHash": "aaa7fa21521fc52c0da4bee4cdff24ac",
+      "lastModificationDate": 1650829276579,
+      "contentHash": "d51cbbd8042597412b0eb28f0b3c3ff7",
       "sourceName": "contracts/Counter.sol",
       "solcConfig": {
         "version": "0.8.10",
@@ -106,6 +106,76 @@
       ],
       "artifacts": [
         "console"
+      ]
+    },
+    "D:\\Blockchain\\firtblockchain\\contracts\\TestGas.sol": {
+      "lastModificationDate": 1650834080469,
+      "contentHash": "8b2dabf9b89a78dd0522b5744ea90a4c",
+      "sourceName": "contracts/TestGas.sol",
+      "solcConfig": {
+        "version": "0.8.10",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "TestGas"
+      ]
+    },
+    "D:\\Blockchain\\firtblockchain\\contracts\\Hero.sol": {
+      "lastModificationDate": 1650835803826,
+      "contentHash": "ce98f6f21758425edb953fbb7d99abdc",
+      "sourceName": "contracts/Hero.sol",
+      "solcConfig": {
+        "version": "0.8.10",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Hero"
       ]
     }
   }
